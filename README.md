@@ -22,3 +22,7 @@ IT系の専門学校に通っている学生で、毎日少しずつ学び中で
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
+### 言語使用率
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jou-coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
