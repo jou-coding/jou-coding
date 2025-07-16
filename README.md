@@ -26,3 +26,5 @@ IT系の専門学校に通っている学生で、毎日少しずつ学び中で
 ### 言語使用率
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jou-coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## プロフィールの詳細
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jou-coding&theme=vue)
