@@ -32,8 +32,5 @@ I'm still learning, but I enjoy building things and improving my skills step by 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-### 言語使用率
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jou-coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## プロフィールの詳細
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jou-coding&theme=vue)
