@@ -4,6 +4,15 @@ IT系の専門学校に通っている学生で、毎日少しずつ学び中で
 今は TypeScript やデータベース（PostgreSQL・SQL）を中心に勉強しています。  
 まだまだ分からないことも多いですが、楽しくコツコツ成長していけたらと思ってます💪
 
+---
+
+# 🌟 I'm jou-coding
+
+I'm a student at an IT-focused technical school in Japan 🧑‍💻  
+Currently, I'm studying TypeScript and database technologies such as PostgreSQL and SQL.  
+I'm still learning, but I enjoy building things and improving my skills step by step 💪
+
+
 ## 🧰 技術スタック
 ### フロントエンド
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
