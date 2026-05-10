@@ -8,7 +8,7 @@
 
 # 🌟 I'm banjo
 
-I am a Software Engineer based in Tokyo, Japan. 🧑‍💻  
+I am a Software Engineer based in Tokyo. 🧑‍💻  
 Currently, I'm studying TypeScript and database technologies such as PostgreSQL and SQL.  
 I'm still learning, but I enjoy building things and improving my skills step by step 💪
 
