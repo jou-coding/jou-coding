@@ -1,6 +1,6 @@
 # 🌟 banjoです！
 
-IT系の専門学校に通っている学生で、毎日少しずつ学び中です🧑‍💻  
+私は、東京を拠点に活動しているソフトウェアエンジニアです。🧑‍💻  
 今は TypeScript やデータベース（PostgreSQL・SQL）を中心に勉強しています。  
 まだまだ分からないことも多いですが、楽しくコツコツ成長していけたらと思ってます💪
 
@@ -8,7 +8,7 @@ IT系の専門学校に通っている学生で、毎日少しずつ学び中で
 
 # 🌟 I'm banjo
 
-I'm a student at an IT-focused technical school in Japan 🧑‍💻  
+I am a Software Engineer based in Tokyo, Japan. 🧑‍💻  
 Currently, I'm studying TypeScript and database technologies such as PostgreSQL and SQL.  
 I'm still learning, but I enjoy building things and improving my skills step by step 💪
 
