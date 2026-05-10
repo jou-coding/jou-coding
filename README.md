@@ -1,4 +1,4 @@
-# 🌟 jou-codingです！
+# 🌟 banjoです！
 
 IT系の専門学校に通っている学生で、毎日少しずつ学び中です🧑‍💻  
 今は TypeScript やデータベース（PostgreSQL・SQL）を中心に勉強しています。  
@@ -6,7 +6,7 @@ IT系の専門学校に通っている学生で、毎日少しずつ学び中で
 
 ---
 
-# 🌟 I'm jou-coding
+# 🌟 I'm banjo
 
 I'm a student at an IT-focused technical school in Japan 🧑‍💻  
 Currently, I'm studying TypeScript and database technologies such as PostgreSQL and SQL.  
